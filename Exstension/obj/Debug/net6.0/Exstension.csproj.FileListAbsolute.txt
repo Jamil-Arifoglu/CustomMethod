@@ -1,0 +1,15 @@
+C:\Users\Nermin\source\repos\Exstension\Exstension\bin\Debug\net6.0\Exstension.exe
+C:\Users\Nermin\source\repos\Exstension\Exstension\bin\Debug\net6.0\Exstension.deps.json
+C:\Users\Nermin\source\repos\Exstension\Exstension\bin\Debug\net6.0\Exstension.runtimeconfig.json
+C:\Users\Nermin\source\repos\Exstension\Exstension\bin\Debug\net6.0\Exstension.dll
+C:\Users\Nermin\source\repos\Exstension\Exstension\bin\Debug\net6.0\Exstension.pdb
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.csproj.AssemblyReference.cache
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.AssemblyInfoInputs.cache
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.AssemblyInfo.cs
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.csproj.CoreCompileInputs.cache
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.dll
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\refint\Exstension.dll
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.pdb
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\Exstension.genruntimeconfig.cache
+C:\Users\Nermin\source\repos\Exstension\Exstension\obj\Debug\net6.0\ref\Exstension.dll
